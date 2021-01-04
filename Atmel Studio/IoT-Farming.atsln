@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "IoT-Farming", "IoT-Farming\IoT-Farming.cproj", "{933D0E8C-AF5E-4124-BBB7-B5DBF9330078}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LCD_4bit", "..\LCD_4bit\LCD_4bit\LCD_4bit.cproj", "{41EF6E3F-9303-4DD2-BC12-3B12EEC6E8E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{933D0E8C-AF5E-4124-BBB7-B5DBF9330078}.Debug|AVR.ActiveCfg = Debug|AVR
+		{933D0E8C-AF5E-4124-BBB7-B5DBF9330078}.Debug|AVR.Build.0 = Debug|AVR
+		{933D0E8C-AF5E-4124-BBB7-B5DBF9330078}.Release|AVR.ActiveCfg = Release|AVR
+		{933D0E8C-AF5E-4124-BBB7-B5DBF9330078}.Release|AVR.Build.0 = Release|AVR
+		{41EF6E3F-9303-4DD2-BC12-3B12EEC6E8E4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{41EF6E3F-9303-4DD2-BC12-3B12EEC6E8E4}.Debug|AVR.Build.0 = Debug|AVR
+		{41EF6E3F-9303-4DD2-BC12-3B12EEC6E8E4}.Release|AVR.ActiveCfg = Release|AVR
+		{41EF6E3F-9303-4DD2-BC12-3B12EEC6E8E4}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
